@@ -1,0 +1,16 @@
+PODS:
+  - SOToolKit (0.1.0)
+
+DEPENDENCIES:
+  - SOToolKit (from `../`)
+
+EXTERNAL SOURCES:
+  SOToolKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SOToolKit: 03292f4fa9df171ba82ffb7f3b6bfeee6b84316e
+
+PODFILE CHECKSUM: 17f5d2eb33d5e905c594cc5bb5613346ae1f23ee
+
+COCOAPODS: 1.2.0

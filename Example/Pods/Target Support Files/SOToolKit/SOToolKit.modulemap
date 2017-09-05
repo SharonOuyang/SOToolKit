@@ -1,0 +1,6 @@
+framework module SOToolKit {
+  umbrella header "SOToolKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
